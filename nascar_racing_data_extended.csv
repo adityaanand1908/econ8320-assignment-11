@@ -1,0 +1,201 @@
+Driver,Car#,Crash Rate (%),Pass Efficiency (NDOs),Average Speed (mph),Laps Completed,Car Type,Track Type,NDOs,Average Start,Average Finish,Rank,Wins
+Driver_1,1,30,15,150,200,Sedan,Dirt Track,44,24,20,20,7
+Driver_2,2,30,15,150,200,Sedan,Road Course,22,25,34,3,0
+Driver_3,3,30,18,150,200,Convertible,Dirt Track,26,17,20,50,3
+Driver_4,4,30,18,154,200,Sedan,Road Course,46,10,27,12,2
+Driver_5,5,35,18,154,200,Hatchback,Street Circuit,13,28,19,23,10
+Driver_6,6,35,21,154,200,Hatchback,Road Course,37,21,26,35,9
+Driver_7,7,35,14,154,200,Coupe,Road Course,10,20,22,44,0
+Driver_8,8,35,14,158,208,Convertible,Oval,24,25,38,48,1
+Driver_9,9,35,17,158,208,Sedan,Dirt Track,50,8,6,45,4
+Driver_10,10,30,17,158,208,Coupe,Road Course,22,1,19,26,4
+Driver_11,11,30,17,158,208,Hatchback,Street Circuit,42,31,25,37,10
+Driver_12,12,30,20,150,208,Convertible,Dirt Track,31,34,8,30,10
+Driver_13,13,30,20,150,208,SUV,Street Circuit,41,8,14,32,9
+Driver_14,14,30,13,150,208,Coupe,Street Circuit,25,32,9,20,5
+Driver_15,15,35,16,150,208,Coupe,Dirt Track,42,22,16,20,6
+Driver_16,16,35,16,154,216,Sedan,Street Circuit,31,9,18,45,3
+Driver_17,17,35,16,154,216,Sedan,Dirt Track,42,2,9,12,6
+Driver_18,18,35,19,154,216,Coupe,Road Course,23,20,35,27,0
+Driver_19,19,35,19,154,216,SUV,Dirt Track,46,22,14,4,2
+Driver_20,20,30,19,158,196,SUV,Dirt Track,46,13,22,27,7
+Driver_21,21,30,15,158,196,Hatchback,Street Circuit,21,10,16,4,3
+Driver_22,22,30,15,158,196,Coupe,Oval,14,6,32,39,2
+Driver_23,23,30,15,158,196,Sedan,Oval,44,24,23,4,2
+Driver_24,24,30,18,150,204,Convertible,Road Course,39,31,12,32,7
+Driver_25,25,35,18,150,204,SUV,Street Circuit,40,2,12,7,9
+Driver_26,26,35,18,150,204,Convertible,Street Circuit,24,20,11,5,4
+Driver_27,27,35,21,150,204,Coupe,Road Course,44,5,2,29,9
+Driver_28,28,35,14,154,204,Hatchback,Street Circuit,13,24,33,23,6
+Driver_29,29,35,14,154,204,SUV,Dirt Track,33,29,5,38,1
+Driver_30,30,30,17,154,204,Hatchback,Road Course,47,21,5,20,6
+Driver_31,31,30,17,154,204,Hatchback,Street Circuit,47,17,1,14,5
+Driver_32,32,30,17,158,212,Convertible,Street Circuit,38,36,26,27,3
+Driver_33,33,30,20,158,212,Sedan,Dirt Track,22,14,37,11,8
+Driver_34,34,30,20,158,212,Hatchback,Road Course,50,10,17,17,1
+Driver_35,35,35,13,158,212,Convertible,Street Circuit,38,1,27,32,6
+Driver_36,36,35,16,150,212,Sedan,Street Circuit,36,24,17,6,0
+Driver_37,37,35,16,150,212,Convertible,Oval,28,28,31,48,10
+Driver_38,38,35,16,150,212,Convertible,Street Circuit,18,38,10,32,7
+Driver_39,39,35,19,150,212,SUV,Street Circuit,16,33,7,41,1
+Driver_40,40,30,19,154,200,Sedan,Dirt Track,13,30,18,31,1
+Driver_41,41,30,19,154,200,Coupe,Oval,28,13,16,31,2
+Driver_42,42,30,15,154,200,Hatchback,Dirt Track,43,3,5,38,6
+Driver_43,43,30,15,154,200,SUV,Dirt Track,43,37,7,7,9
+Driver_44,44,30,15,158,200,Coupe,Dirt Track,38,27,23,16,6
+Driver_45,45,35,18,158,200,Sedan,Dirt Track,23,21,26,26,6
+Driver_46,46,35,18,158,200,SUV,Oval,22,37,20,26,10
+Driver_47,47,35,18,158,200,SUV,Road Course,10,39,15,17,3
+Driver_48,48,35,21,150,208,Sedan,Dirt Track,48,32,7,14,3
+Driver_49,49,35,14,150,208,SUV,Street Circuit,20,22,4,14,1
+Driver_50,50,30,14,150,208,Convertible,Dirt Track,24,33,37,28,1
+Driver_51,51,30,17,150,208,Hatchback,Dirt Track,25,26,9,10,2
+Driver_52,52,30,17,154,208,Sedan,Oval,21,1,38,21,4
+Driver_53,53,30,17,154,208,Hatchback,Street Circuit,38,25,10,19,10
+Driver_54,54,30,20,154,208,Sedan,Oval,28,29,35,9,10
+Driver_55,55,35,20,154,208,Convertible,Oval,38,38,12,18,3
+Driver_56,56,35,13,158,216,Coupe,Dirt Track,24,14,38,37,0
+Driver_57,57,35,16,158,216,Coupe,Street Circuit,27,3,19,31,2
+Driver_58,58,35,16,158,216,Coupe,Dirt Track,29,17,5,8,5
+Driver_59,59,35,16,158,216,SUV,Street Circuit,28,40,3,43,6
+Driver_60,60,30,19,150,196,Convertible,Oval,18,38,32,21,1
+Driver_61,61,30,19,150,196,Coupe,Dirt Track,11,28,36,46,9
+Driver_62,62,30,19,150,196,Sedan,Road Course,29,20,1,8,5
+Driver_63,63,30,15,150,196,SUV,Road Course,45,34,17,34,10
+Driver_64,64,30,15,154,204,SUV,Oval,31,12,16,15,1
+Driver_65,65,35,15,154,204,Convertible,Oval,23,15,24,24,9
+Driver_66,66,35,18,154,204,Convertible,Street Circuit,19,13,19,36,2
+Driver_67,67,35,18,154,204,Sedan,Dirt Track,38,21,32,6,4
+Driver_68,68,35,18,158,204,Sedan,Dirt Track,38,16,8,7,2
+Driver_69,69,35,21,158,204,SUV,Oval,23,35,30,23,10
+Driver_70,70,30,14,158,204,SUV,Street Circuit,27,11,36,30,2
+Driver_71,71,30,14,158,204,Convertible,Dirt Track,26,3,17,48,9
+Driver_72,72,30,17,150,212,Sedan,Road Course,19,31,2,41,2
+Driver_73,73,30,17,150,212,Coupe,Street Circuit,16,3,33,46,9
+Driver_74,74,30,17,150,212,Convertible,Street Circuit,49,2,10,34,6
+Driver_75,75,35,20,150,212,Convertible,Oval,18,2,24,18,3
+Driver_76,76,35,20,154,212,Hatchback,Oval,21,10,32,47,6
+Driver_77,77,35,13,154,212,Coupe,Dirt Track,34,3,19,10,6
+Driver_78,78,35,16,154,212,Coupe,Street Circuit,26,23,14,16,2
+Driver_79,79,35,16,154,212,Hatchback,Dirt Track,43,24,1,44,4
+Driver_80,80,30,16,158,200,Coupe,Oval,40,36,27,46,9
+Driver_81,81,30,19,158,200,Coupe,Street Circuit,41,13,25,40,6
+Driver_82,82,30,19,158,200,Sedan,Street Circuit,32,17,17,24,4
+Driver_83,83,30,19,158,200,Convertible,Street Circuit,22,6,3,40,4
+Driver_84,84,30,15,150,200,Sedan,Street Circuit,39,34,24,11,8
+Driver_85,85,35,15,150,200,Convertible,Road Course,14,8,38,30,10
+Driver_86,86,35,15,150,200,Convertible,Road Course,13,9,18,27,7
+Driver_87,87,35,18,150,200,Coupe,Road Course,30,11,32,25,5
+Driver_88,88,35,18,154,208,SUV,Dirt Track,15,32,27,18,6
+Driver_89,89,35,18,154,208,Sedan,Dirt Track,42,29,38,7,6
+Driver_90,90,30,21,154,208,Hatchback,Dirt Track,36,12,3,26,1
+Driver_91,91,30,14,154,208,Sedan,Oval,34,31,39,40,1
+Driver_92,92,30,14,158,208,Sedan,Street Circuit,20,24,38,35,2
+Driver_93,93,30,17,158,208,Sedan,Street Circuit,13,17,37,30,5
+Driver_94,94,30,17,158,208,Sedan,Oval,32,8,20,5,7
+Driver_95,95,35,17,158,208,SUV,Dirt Track,10,26,26,24,5
+Driver_96,96,35,20,150,216,Coupe,Dirt Track,38,2,27,32,5
+Driver_97,97,35,20,150,216,Coupe,Oval,37,35,32,8,7
+Driver_98,98,35,13,150,216,Convertible,Street Circuit,10,1,40,41,4
+Driver_99,99,35,16,150,216,Convertible,Dirt Track,30,16,28,38,7
+Driver_100,100,30,16,154,196,SUV,Street Circuit,50,36,22,16,5
+Driver_101,101,30,16,154,196,Coupe,Dirt Track,45,12,9,41,9
+Driver_102,102,30,19,154,196,SUV,Dirt Track,27,34,37,24,0
+Driver_103,103,30,19,154,196,Convertible,Dirt Track,31,19,27,2,2
+Driver_104,104,30,19,158,204,Hatchback,Road Course,42,25,22,11,10
+Driver_105,105,35,15,158,204,Coupe,Road Course,42,23,1,17,3
+Driver_106,106,35,15,158,204,Sedan,Oval,17,31,23,21,0
+Driver_107,107,35,15,158,204,Convertible,Road Course,20,20,11,18,0
+Driver_108,108,35,18,150,204,Sedan,Street Circuit,43,11,6,50,1
+Driver_109,109,35,18,150,204,SUV,Street Circuit,27,34,6,47,4
+Driver_110,110,30,18,150,204,Convertible,Dirt Track,24,33,7,20,1
+Driver_111,111,30,21,150,204,Hatchback,Road Course,12,27,19,8,8
+Driver_112,112,30,14,154,212,Hatchback,Street Circuit,31,31,27,39,2
+Driver_113,113,30,14,154,212,SUV,Oval,15,39,17,37,0
+Driver_114,114,30,17,154,212,Convertible,Dirt Track,43,16,20,7,0
+Driver_115,115,35,17,154,212,Coupe,Dirt Track,22,9,10,37,1
+Driver_116,116,35,17,158,212,Hatchback,Street Circuit,28,8,1,32,9
+Driver_117,117,35,20,158,212,Convertible,Oval,12,25,16,49,4
+Driver_118,118,35,20,158,212,Convertible,Dirt Track,47,22,5,8,5
+Driver_119,119,35,13,158,212,Coupe,Oval,31,26,20,50,5
+Driver_120,120,30,16,150,200,Coupe,Street Circuit,45,40,40,35,7
+Driver_121,121,30,16,150,200,Convertible,Road Course,41,6,13,33,3
+Driver_122,122,30,16,150,200,Coupe,Road Course,39,40,4,26,4
+Driver_123,123,30,19,150,200,Hatchback,Road Course,20,7,24,44,9
+Driver_124,124,30,19,154,200,Coupe,Road Course,42,21,4,19,0
+Driver_125,125,35,19,154,200,Sedan,Road Course,41,15,22,15,3
+Driver_126,126,35,15,154,200,SUV,Street Circuit,44,30,8,17,6
+Driver_127,127,35,15,154,200,Coupe,Road Course,20,17,33,2,0
+Driver_128,128,35,15,158,208,Coupe,Oval,11,31,25,9,9
+Driver_129,129,35,18,158,208,Convertible,Street Circuit,13,23,23,9,10
+Driver_130,130,30,18,158,208,Convertible,Dirt Track,26,30,40,43,1
+Driver_131,131,30,18,158,208,Hatchback,Oval,23,24,35,15,5
+Driver_132,132,30,21,150,208,Convertible,Road Course,47,22,7,16,9
+Driver_133,133,30,14,150,208,Sedan,Street Circuit,25,20,1,7,9
+Driver_134,134,30,14,150,208,SUV,Oval,42,30,9,29,10
+Driver_135,135,35,17,150,208,Convertible,Road Course,13,32,28,42,2
+Driver_136,136,35,17,154,216,Coupe,Street Circuit,17,26,22,37,5
+Driver_137,137,35,17,154,216,Sedan,Dirt Track,33,34,8,15,8
+Driver_138,138,35,20,154,216,Sedan,Dirt Track,27,20,34,49,3
+Driver_139,139,35,20,154,216,Hatchback,Oval,10,3,25,9,6
+Driver_140,140,30,13,158,196,Hatchback,Street Circuit,13,35,26,50,5
+Driver_141,141,30,16,158,196,Sedan,Road Course,16,7,11,3,0
+Driver_142,142,30,16,158,196,Coupe,Road Course,34,13,12,5,6
+Driver_143,143,30,16,158,196,Coupe,Oval,50,10,18,14,2
+Driver_144,144,30,19,150,204,Coupe,Street Circuit,23,20,17,42,1
+Driver_145,145,35,19,150,204,Coupe,Dirt Track,11,40,38,38,7
+Driver_146,146,35,19,150,204,SUV,Road Course,10,25,26,48,5
+Driver_147,147,35,15,150,204,SUV,Oval,31,28,40,28,4
+Driver_148,148,35,15,154,204,Convertible,Road Course,15,25,36,30,10
+Driver_149,149,35,15,154,204,Coupe,Road Course,42,27,6,20,0
+Driver_150,150,30,18,154,204,Sedan,Road Course,47,28,19,41,3
+Driver_151,151,30,18,154,204,Hatchback,Oval,35,9,34,14,10
+Driver_152,152,30,18,158,212,Hatchback,Street Circuit,48,11,39,4,6
+Driver_153,153,30,21,158,212,Sedan,Road Course,43,27,18,22,8
+Driver_154,154,30,14,158,212,SUV,Street Circuit,49,9,37,19,9
+Driver_155,155,35,14,158,212,Sedan,Dirt Track,17,2,3,23,9
+Driver_156,156,35,17,150,212,Coupe,Oval,43,14,28,41,1
+Driver_157,157,35,17,150,212,Sedan,Road Course,48,17,22,23,6
+Driver_158,158,35,17,150,212,Hatchback,Street Circuit,34,28,2,10,10
+Driver_159,159,35,20,150,212,Convertible,Oval,22,22,1,46,9
+Driver_160,160,30,20,154,200,Convertible,Street Circuit,27,34,14,27,4
+Driver_161,161,30,13,154,200,SUV,Dirt Track,46,6,3,7,3
+Driver_162,162,30,16,154,200,Convertible,Road Course,49,38,31,5,0
+Driver_163,163,30,16,154,200,Sedan,Road Course,22,3,30,39,6
+Driver_164,164,30,16,158,200,Coupe,Street Circuit,32,32,8,27,6
+Driver_165,165,35,19,158,200,Sedan,Street Circuit,30,27,37,34,6
+Driver_166,166,35,19,158,200,Convertible,Street Circuit,33,22,1,17,4
+Driver_167,167,35,19,158,200,Hatchback,Street Circuit,29,5,32,19,4
+Driver_168,168,35,15,150,208,Hatchback,Street Circuit,48,1,38,20,4
+Driver_169,169,35,15,150,208,Coupe,Oval,50,28,30,35,0
+Driver_170,170,30,15,150,208,Convertible,Dirt Track,17,1,32,20,3
+Driver_171,171,30,18,150,208,Hatchback,Road Course,27,30,32,46,6
+Driver_172,172,30,18,154,208,Coupe,Oval,28,21,9,26,4
+Driver_173,173,30,18,154,208,Convertible,Oval,48,19,29,27,9
+Driver_174,174,30,21,154,208,Hatchback,Dirt Track,33,21,2,48,6
+Driver_175,175,35,14,154,208,Hatchback,Oval,40,33,10,8,0
+Driver_176,176,35,14,158,216,Hatchback,Oval,33,12,5,19,1
+Driver_177,177,35,17,158,216,Hatchback,Dirt Track,17,38,12,13,7
+Driver_178,178,35,17,158,216,SUV,Oval,48,6,25,38,4
+Driver_179,179,35,17,158,216,SUV,Street Circuit,27,27,11,38,6
+Driver_180,180,30,20,150,196,Coupe,Road Course,23,23,13,37,6
+Driver_181,181,30,20,150,196,Sedan,Street Circuit,15,5,23,19,4
+Driver_182,182,30,13,150,196,Convertible,Oval,27,16,31,6,5
+Driver_183,183,30,16,150,196,Convertible,Road Course,32,36,11,7,5
+Driver_184,184,30,16,154,204,Convertible,Road Course,22,22,19,2,7
+Driver_185,185,35,16,154,204,Coupe,Road Course,39,20,36,23,10
+Driver_186,186,35,19,154,204,SUV,Road Course,23,8,18,31,1
+Driver_187,187,35,19,154,204,Hatchback,Dirt Track,34,1,40,29,2
+Driver_188,188,35,19,158,204,Convertible,Dirt Track,47,4,14,21,9
+Driver_189,189,35,15,158,204,Coupe,Dirt Track,45,4,36,29,3
+Driver_190,190,30,15,158,204,Coupe,Oval,30,20,10,31,4
+Driver_191,191,30,15,158,204,Hatchback,Road Course,43,40,18,3,4
+Driver_192,192,30,18,150,212,Sedan,Road Course,24,21,8,27,7
+Driver_193,193,30,18,150,212,Sedan,Road Course,40,39,18,1,7
+Driver_194,194,30,18,150,212,Sedan,Road Course,37,20,31,29,2
+Driver_195,195,35,21,150,212,SUV,Road Course,14,7,28,22,7
+Driver_196,196,35,14,154,212,Convertible,Street Circuit,40,31,17,28,2
+Driver_197,197,35,14,154,212,Sedan,Road Course,48,27,9,47,10
+Driver_198,198,35,17,154,212,Convertible,Street Circuit,11,4,19,19,0
+Driver_199,199,35,17,154,212,Convertible,Street Circuit,33,35,12,13,4
+Driver_200,200,30,17,158,200,Hatchback,Dirt Track,27,37,11,7,9
